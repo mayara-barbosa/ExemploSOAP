@@ -1,0 +1,6 @@
+F:\PUCPR\6º PERIODO\PROG 5\HW_SOAP_DotNet\HW_SOAP_DotNet\bin\Debug\HW_SOAP_DotNet.exe.config
+F:\PUCPR\6º PERIODO\PROG 5\HW_SOAP_DotNet\HW_SOAP_DotNet\obj\Debug\HW_SOAP_DotNet.csprojResolveAssemblyReference.cache
+F:\PUCPR\6º PERIODO\PROG 5\HW_SOAP_DotNet\HW_SOAP_DotNet\bin\Debug\HW_SOAP_DotNet.exe
+F:\PUCPR\6º PERIODO\PROG 5\HW_SOAP_DotNet\HW_SOAP_DotNet\bin\Debug\HW_SOAP_DotNet.pdb
+F:\PUCPR\6º PERIODO\PROG 5\HW_SOAP_DotNet\HW_SOAP_DotNet\obj\Debug\HW_SOAP_DotNet.exe
+F:\PUCPR\6º PERIODO\PROG 5\HW_SOAP_DotNet\HW_SOAP_DotNet\obj\Debug\HW_SOAP_DotNet.pdb
